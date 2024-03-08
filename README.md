@@ -1,7 +1,7 @@
 Hi 👋 My name is Omotolani Jaji
 ===============================
-*   🌍  I'm based in Lagos
-*   🚀  I'm currently working on [Betfuse](http://betfuse.org)
+*   🌍  I'm based in England
+*   🚀  I'm currently working on [:)]
 *   🤝  I'm open to collaborating on Projects. 
 
 <a href="https://www.twitter.com/motolaji" target="_blank" rel="noreferrer"><img
