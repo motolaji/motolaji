@@ -1,8 +1,9 @@
 Hi 👋 My name is Omotolani Jaji
 ===============================
-*   🌍  I'm based in England
+
 *   🚀  I'm currently working on :)
-*   🤝  I'm open to collaborating on Projects. 
+*   🤝  I'm open to collaborating on Projects.
+*   🌍  
 
 <a href="https://www.twitter.com/motolaji" target="_blank" rel="noreferrer"><img
  src="https://img.shields.io/twitter/follow/motolaji?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
