@@ -1,4 +1,4 @@
-Hi 👋 My name is Omotolani Jaji
+Hi 👋 My name is Malik
 ===============================
 
 *   🚀  I'm currently working on :)
